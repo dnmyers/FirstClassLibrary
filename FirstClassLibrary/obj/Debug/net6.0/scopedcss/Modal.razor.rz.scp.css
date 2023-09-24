@@ -1,4 +1,4 @@
-﻿.dialog-container {
+.dialog-container[b-7ax2aet1wt] {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -7,10 +7,10 @@
     background-color: rgba(0, 0, 0, 0.5);
     z-index: 2000;
     display: flex;
-    animation: dialog-container-entry 0.2s;
+    animation: dialog-container-entry-b-7ax2aet1wt 0.2s;
 }
 
-@keyframes dialog-container-entry {
+@keyframes dialog-container-entry-b-7ax2aet1wt {
     0% {
         opacity: 0;
     }
@@ -20,7 +20,7 @@
     }
 }
 
-.dialog {
+.dialog[b-7ax2aet1wt] {
     background-color: white;
     box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
     display: flex;
@@ -30,11 +30,11 @@
     margin: auto;
     width: 700px;
     max-height: calc(100% - 3rem);
-    animation: dialog-entry 0.4s;
+    animation: dialog-entry-b-7ax2aet1wt 0.4s;
     animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 
-@keyframes dialog-entry {
+@keyframes dialog-entry-b-7ax2aet1wt {
     0% {
         transform: translateY(30px) scale(0.95);
     }
@@ -44,13 +44,13 @@
     }
 }
 
-.dialog-title {
+.dialog-title[b-7ax2aet1wt] {
     background-color: #444;
     color: #fff2cc;
     padding: 1.3rem 0.5rem;
 }
 
-.dialog-title h2 {
+.dialog-title h2[b-7ax2aet1wt] {
     color: white;
     font-size: 1.4rem;
     margin: 0;
@@ -58,12 +58,12 @@
     line-height: 1.3rem;
 }
 
-.dialog-body {
+.dialog-body[b-7ax2aet1wt] {
     flex-grow: 1;
     padding: 0.5rem 3rem 1rem 0.5rem;
 }
 
-.dialog-buttons {
+.dialog-buttons[b-7ax2aet1wt] {
     height: 4rem;
     flex-shrink: 0;
     display: flex;

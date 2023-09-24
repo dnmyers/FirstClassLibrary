@@ -7,7 +7,7 @@
     background-color: rgba(0, 0, 0, 0.5);
     z-index: 2000;
     display: flex;
-    animation: dialog-container-entry 0.2s;
+    animation: dialog-container-entry 0.3s;
 }
 
 @keyframes dialog-container-entry {
@@ -31,7 +31,7 @@
     width: 700px;
     max-height: calc(100% - 3rem);
     animation: dialog-entry 0.4s;
-    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+    animation-timing-function: cubic-bezier(0.075, 0.820, 0.165, 1.000);
 }
 
 @keyframes dialog-entry {
@@ -40,7 +40,7 @@
     }
 
     100% {
-        transform: translateX(0px) scale(1);
+        transform: translateX(0px) scale(1.0);
     }
 }
 

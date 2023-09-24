@@ -5,10 +5,10 @@
   },
   "projects": {
     "e:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\FirstClassLibrary.csproj": {
-      "version": "1.0.0",
+      "version": "0.1.0-alpha1",
       "restore": {
         "projectUniqueName": "e:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\FirstClassLibrary.csproj",
-        "projectName": "FirstClassLibrary",
+        "projectName": "Learn.MyFirstClassLibrary",
         "projectPath": "e:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\FirstClassLibrary.csproj",
         "packagesPath": "C:\\Users\\dn832\\.nuget\\packages\\",
         "outputPath": "e:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\obj\\",

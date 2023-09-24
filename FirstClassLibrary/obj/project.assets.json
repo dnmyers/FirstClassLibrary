@@ -551,13 +551,13 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "0.1.0-alpha1",
     "restore": {
-      "projectUniqueName": "E:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\FirstClassLibrary.csproj",
-      "projectName": "FirstClassLibrary",
-      "projectPath": "E:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\FirstClassLibrary.csproj",
+      "projectUniqueName": "e:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\FirstClassLibrary.csproj",
+      "projectName": "Learn.MyFirstClassLibrary",
+      "projectPath": "e:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\FirstClassLibrary.csproj",
       "packagesPath": "C:\\Users\\dn832\\.nuget\\packages\\",
-      "outputPath": "E:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\obj\\",
+      "outputPath": "e:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
