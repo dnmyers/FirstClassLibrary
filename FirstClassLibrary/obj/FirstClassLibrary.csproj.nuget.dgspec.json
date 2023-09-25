@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\FirstClassLibrary.csproj": {}
+    "E:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\FirstClassLibrary.csproj": {}
   },
   "projects": {
-    "e:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\FirstClassLibrary.csproj": {
+    "E:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\FirstClassLibrary.csproj": {
       "version": "0.1.0-alpha1",
       "restore": {
-        "projectUniqueName": "e:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\FirstClassLibrary.csproj",
+        "projectUniqueName": "E:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\FirstClassLibrary.csproj",
         "projectName": "Learn.MyFirstClassLibrary",
-        "projectPath": "e:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\FirstClassLibrary.csproj",
+        "projectPath": "E:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\FirstClassLibrary.csproj",
         "packagesPath": "C:\\Users\\dn832\\.nuget\\packages\\",
-        "outputPath": "e:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\obj\\",
+        "outputPath": "E:\\Coding\\.NET\\Blazor\\FirstClassLibrary\\FirstClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
